@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="./css/about.css" />
     <title>LaMesa Inasal | About Us</title>
 </head>
+<!--  -->
 
 <body>
     <div class="about-us-container">
